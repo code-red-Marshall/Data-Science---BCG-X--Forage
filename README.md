@@ -73,6 +73,12 @@ To investigate outliers, we use a boxplot. From the boxplot we can see that with
 ## Task 3 -
 To create new features for your analysis and upload your completed python file.
 
+## Task 4 - 
+- Train a random forest classifier to predict churn
+- Evaluate the predictions using evaluation metrics to demonstrate how accurately the model has performed
+
+
+
 
 
 
