@@ -80,6 +80,7 @@ To create new features for your analysis and upload your completed python file.
 # Usage:
 - Follow the readme.md
 - The py notebooks for all the tasks are mentioned. For task 3 and task 4, we have one jupyter file by the name "Feature_engineering_and_modelling_BCG"
+- data_with_predictions.csv has the churn prediction column along with the churn prediction percentage column.
 
 # Contributions: 
 Feel free to fork this repository, make changes or improvements, and create pull requests. We appreciate your contributions!
