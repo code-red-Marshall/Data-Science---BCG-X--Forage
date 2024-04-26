@@ -77,6 +77,12 @@ To create new features for your analysis and upload your completed python file.
 - Train a random forest classifier to predict churn
 - Evaluate the predictions using evaluation metrics to demonstrate how accurately the model has performed
 
+# Usage:
+- Follow the readme.md
+- The py notebooks for all the tasks are mentioned. For task 3 and task 4, we have one jupyter file by the name "Feature_engineering_and_modelling_BCG"
+
+# Contributions: 
+Feel free to fork this repository, make changes or improvements, and create pull requests. We appreciate your contributions!
 
 
 
