@@ -46,7 +46,35 @@ The data types of each column
 Descriptive statistics of the dataset
 Distributions of columns
 
+## Analysis :
+
+The visualization provided by Estelle shows how many companies churned vs. how many companies did not churn. We can see from this that the churn rate is approximately 10%. This is actually a very good churn rate, the closer the rate is to 0%, the better.
+
+The next series of visualizations were created in an attempt to try and dive deeper into how churn changes based on other factors (using other columns). This is useful for us to investigate because it may help us to understand factors that drive churn.
+
+In the notebook we visualize churn vs. sales channel, contract type, number of products, number of years and origin/contract offer.
+
+For example:
+
+We see that for sales channel, there are some sales channels that yield customers churning but there are also other sales channels that have no customers churning.
+For contract type, we see quite an even split for customers churning. This is interesting because this may suggest that contract type is not a driving factor towards churn rate.
+
+Additionally, for some columns their distributions with churn rate included. This is useful for us to understand because based on the distribution of a column, this could affect our feature engineering later.
+We look at the distribution of consumption, subscribed power and forecast in the notebook. 
+
+For example:
+
+We notice that the distribution of consumption is very skewed, this is called a positive skew since it is biased towards lower values on the x axis.
+This is interesting because you may decide to treat this column to reduce the skewness later on during feature engineering. But also because we may want to visualize if there are any outliers within this column. 
+
+To investigate outliers, we use a boxplot. From the boxplot we can see that with the column as it is there are definitely some outliers. Once again this is interesting because we may choose to remove some of these outliers later.
+
+
 ## Task 3 -
+To create new features for your analysis and upload your completed python file.
+
+
+
 
 
 
