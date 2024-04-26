@@ -34,7 +34,7 @@ the data that we’ll need from the client, and
 the techniques we’ll use to investigate the issue.
 
 ## Task 2 - 
-The client has sent over 3 data sets:
+The client has sent over 2 data sets (client_data.csv and price_data.csv):
 
 Historical customer data: Customer data such as usage, sign up date, forecasted usage etc
 Historical pricing data: variable and fixed pricing data etc
@@ -45,6 +45,9 @@ I need to analyze the following using Python:
 The data types of each column
 Descriptive statistics of the dataset
 Distributions of columns
+
+## Task 3 -
+
 
 
 
